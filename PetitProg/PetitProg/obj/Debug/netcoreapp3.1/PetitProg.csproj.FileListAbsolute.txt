@@ -1,0 +1,14 @@
+D:\Stockage\ProjetVS\PetitProg\PetitProg\bin\Debug\netcoreapp3.1\PetitProg.exe
+D:\Stockage\ProjetVS\PetitProg\PetitProg\bin\Debug\netcoreapp3.1\PetitProg.deps.json
+D:\Stockage\ProjetVS\PetitProg\PetitProg\bin\Debug\netcoreapp3.1\PetitProg.runtimeconfig.json
+D:\Stockage\ProjetVS\PetitProg\PetitProg\bin\Debug\netcoreapp3.1\PetitProg.runtimeconfig.dev.json
+D:\Stockage\ProjetVS\PetitProg\PetitProg\bin\Debug\netcoreapp3.1\PetitProg.dll
+D:\Stockage\ProjetVS\PetitProg\PetitProg\bin\Debug\netcoreapp3.1\PetitProg.pdb
+D:\Stockage\ProjetVS\PetitProg\PetitProg\obj\Debug\netcoreapp3.1\PetitProg.csproj.AssemblyReference.cache
+D:\Stockage\ProjetVS\PetitProg\PetitProg\obj\Debug\netcoreapp3.1\PetitProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stockage\ProjetVS\PetitProg\PetitProg\obj\Debug\netcoreapp3.1\PetitProg.AssemblyInfoInputs.cache
+D:\Stockage\ProjetVS\PetitProg\PetitProg\obj\Debug\netcoreapp3.1\PetitProg.AssemblyInfo.cs
+D:\Stockage\ProjetVS\PetitProg\PetitProg\obj\Debug\netcoreapp3.1\PetitProg.csproj.CoreCompileInputs.cache
+D:\Stockage\ProjetVS\PetitProg\PetitProg\obj\Debug\netcoreapp3.1\PetitProg.dll
+D:\Stockage\ProjetVS\PetitProg\PetitProg\obj\Debug\netcoreapp3.1\PetitProg.pdb
+D:\Stockage\ProjetVS\PetitProg\PetitProg\obj\Debug\netcoreapp3.1\PetitProg.genruntimeconfig.cache
